@@ -9,7 +9,6 @@ plugins {
 
 kotlin {
     jvm()
-    
     sourceSets {
         commonMain.dependencies {
             implementation(compose.runtime)
