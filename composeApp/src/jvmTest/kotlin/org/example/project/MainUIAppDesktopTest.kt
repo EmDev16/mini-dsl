@@ -3,7 +3,7 @@ package org.example.project
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class ComposeAppDesktopTest {
+class MainUIAppDesktopTest {
 
     @Test
     fun example() {

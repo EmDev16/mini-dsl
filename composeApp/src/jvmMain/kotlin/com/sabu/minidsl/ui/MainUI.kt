@@ -1,5 +1,5 @@
 package com.sabu.minidsl.ui
 
-class Compose {
+class MainUI {
     //Compose UI code here
 }
